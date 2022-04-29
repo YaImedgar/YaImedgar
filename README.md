@@ -1,5 +1,5 @@
-### Hi 👋, I'm Roman Guryanov (YaImedgar)
-
+<h1 align="center">Hi 👋, I'm Roman Guryanov (YaImedgar)</h1>
+<h3 align="center">C/C++ developer from Russia</h3>
 <!--
 **YaImedgar/YaImedgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
