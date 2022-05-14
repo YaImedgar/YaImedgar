@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roman Guryanov (🆈🅰 🅸🅼🅴🅳🅶🅰🆁)</h1>
+<h1 align="center">Hi 👋, I'm Guryanov Roman (🆈🅰 🅸🅼🅴🅳🅶🅰🆁)</h1>
 <h2 align="center">C/C++ developer from Russia</h3>
 
 - 🔭 I’m currently working on [Json Builder](https://github.com/YaImedgar/json_builder)
