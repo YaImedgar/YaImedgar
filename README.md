@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guryanov Roman (🆈🅰 🅸🅼🅴🅳🅶🅰🆁)</h1>
 <h2 align="center">C/C++ developer from Russia</h3>
 
-- 🔭 I’m currently working on [Json Builder](https://github.com/YaImedgar/json_builder)
-- 🌱 I’m currently learning [C++17](https://en.cppreference.com/w/cpp/17) with <img src="https://user-images.githubusercontent.com/62895333/168140710-811dc243-c57d-46a7-8f9d-25c03acac774.png" width="15"  height="15"> [YandexPracticum](https://practicum.yandex.ru/cpp/) <img src="https://user-images.githubusercontent.com/62895333/168140710-811dc243-c57d-46a7-8f9d-25c03acac774.png" width="15"  height="15">
+- 🌱 Finished my education [C++17](https://en.cppreference.com/w/cpp/17) with <img src="https://user-images.githubusercontent.com/62895333/168140710-811dc243-c57d-46a7-8f9d-25c03acac774.png" width="15"  height="15"> [YandexPracticum](https://practicum.yandex.ru/cpp/) <img src="https://user-images.githubusercontent.com/62895333/168140710-811dc243-c57d-46a7-8f9d-25c03acac774.png" width="15"  height="15">
+- 🌱 I’m currently learning [DevOps](https://ru.wikipedia.org/wiki/DevOps) with <img src="https://user-images.githubusercontent.com/62895333/168140710-811dc243-c57d-46a7-8f9d-25c03acac774.png" width="15"  height="15"> [YandexPracticum](https://practicum.yandex.ru/promo/devops-course) <img src="https://user-images.githubusercontent.com/62895333/168140710-811dc243-c57d-46a7-8f9d-25c03acac774.png" width="15"  height="15">
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...!
 
